@@ -288,9 +288,6 @@ body::-webkit-scrollbar {
 }
 
 @media (max-width: 920px) {
-    body {
-        background: radial-gradient(#350657 200px, #000034);
-    }
     .rslide {
         right: -65%;
         width: 65%;
@@ -321,9 +318,6 @@ body::-webkit-scrollbar {
 }
 
 @media (max-width: 640px) {
-    body {
-        background: radial-gradient(#350657 50px, #000034);
-    }
     .welcome {
         box-shadow: 0 0 100px 0 rebeccapurple;
         width: 400px;
