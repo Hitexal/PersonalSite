@@ -389,6 +389,7 @@ body::-webkit-scrollbar {
         left: calc(50% - (50px / 2));
         border-top-right-radius: 25px;
         border-top-left-radius: 25px;
+        background-color: #0E1340ee;
     }
     .bottom:hover {
         height: 30px;
